@@ -5,7 +5,7 @@ Netflix Data Analysis (EDA)
 This project performs Exploratory Data Analysis (EDA) on Netflix Movies and TV Shows dataset.
 
 Files
-- `Netflix_Data_Analysis.ipynb` → Jupyter/Colab notebook with full EDA
+- `EDA_Netflix_Debankita.ipynb` → Jupyter/Colab notebook with full EDA
 - `netflix_titles.csv` → Dataset used for analysis
 
 Libraries Used
